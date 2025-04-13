@@ -1,0 +1,20 @@
+# Python scripts (if you don't want to include them in the repository)
+*.py
+
+# Backup files
+*.backup
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
+
+# Original files (if you want to keep just the cleaned versions)
+# realeyes-html-homepage.html
+
+# IDE files
+.vscode/
+.idea/ 
